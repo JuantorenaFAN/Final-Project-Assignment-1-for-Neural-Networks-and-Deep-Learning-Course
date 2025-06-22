@@ -1,0 +1,14 @@
+torch
+torchvision
+numpy
+opencv-python
+matplotlib
+imageio
+imageio-ffmpeg
+tqdm
+tensorboard
+configargparse
+lpips
+scikit-image
+natsort
+pillow
